@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **React and Deep JS**
+- 🌱 I’m currently learning **React and Webpack**
 
 - 👯 Looking to learn **Mobile App Development** in the future
 
