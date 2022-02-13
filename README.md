@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **React and Webpack**
+- 🌱 I’m currently learning **Next.js and Node**
 
 - 👯 Looking to learn **Mobile App Development** in the future
 
