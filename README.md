@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Next.js and Chakra UI with Tailwind**
+- 🌱 I’m currently learning **Next.js, Chakra UI and Tailwind**
 
 - 👯 Looking to learn **Mobile App Development** in the future
 
