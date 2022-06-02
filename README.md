@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Next.js, Tailwind and deep Node**
+- 🌱 I’m currently learning **deep Node.js**
 
 - 👯 Looking to learn **Mobile App Development** in the future
 
