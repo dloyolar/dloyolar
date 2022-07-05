@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About me
 
-- 🌱 I’m currently learning **Node.js** and **REST API**
+- 🌱 I’m currently learning **Node.js** and **Sockets**
 
 - 👯 Looking to learn **Mobile App Development** in the future
 
