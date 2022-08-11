@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dieegolr@gmail.com**
 
-- ⚡ Fun fact **I play games especially League of Legends**
+- ⚡ Fun fact **I play games especially League of Legends and i like to constantly be studying**
 
 ## 🚀 Languages and Tools:
 
