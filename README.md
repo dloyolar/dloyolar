@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About me
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** ⚛️
 
 - 👯 Looking to learn **Nest.js** in the future
 
