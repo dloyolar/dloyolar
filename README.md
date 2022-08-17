@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native** ⚛️
 
-- 👯 Looking to learn **Nest.js** in the future
+- 👯 Looking to learn **Nest.js and GraphQL** in the future
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](#) (Coming soon)**
 
