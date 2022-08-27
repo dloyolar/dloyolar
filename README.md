@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About me
 
-- 🌱 I’m currently learning **React Native** ⚛️
+- 🌱 I’m currently learning **React Component Patterns for create npm packages** ⚛️
 
 - 👯 Looking to learn **Nest.js and GraphQL** in the future
 
