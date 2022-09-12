@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About me
 
-- 🌱 I’m currently learning **Storybook** ⚛️
+- 🌱 I’m currently learning **State Management in React** ⚛️
 
 - 👯 Looking to learn **Nest.js and GraphQL** in the future
 
