@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dieegolr@gmail.com**
 
-- ⚡ Fun facts, **I play games especially League of Legends and i like to constantly be learning new technologies**
+- ⚡ Fun facts, **I play games especially League of Legends and games with a lot of puzzles**
 
 ## 🚀 Languages and Tools:
 
