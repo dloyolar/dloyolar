@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **State Management in React** ⚛️
 
-- 👯 Looking to learn **Nest.js with GraphQL** in the future
+- 👯 Looking to learn **Swift or iOS Development** in the future
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](#) (Coming soon)**
 
