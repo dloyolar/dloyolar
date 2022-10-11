@@ -17,7 +17,7 @@
 
 - ⚡ Fun facts, **I play games especially League of Legends and games with a lot of puzzles**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/</a>
@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-## 💻 Connect with me:
+## 💻 Connect with me
 
 <p align="left">
 
