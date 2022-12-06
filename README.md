@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About me
 
-- 🌱 I’m currently learning **State Management in React with Redux Toolkit** ⚛️
+- 🌱 I’m currently learning **React Native with Firebase** ⚛️
 
 - 👯 Looking to learn **Swift or iOS Development** in the future
 
