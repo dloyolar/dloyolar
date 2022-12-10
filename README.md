@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About me
 
-- 🌱 I’m currently learning **React Native with Firebase** ⚛️
+- 🌱 I’m currently learning **React Native with Firebase and Supabase** ⚛️
 
 - 👯 Looking to learn **Swift or iOS Development** in the future
 
