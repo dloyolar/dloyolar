@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native with Firebase and Supabase** ⚛️
 
-- 👯 Looking to learn **Swift or iOS Development** in the future
+- 👯 Looking to learn **iOS Development** in the future
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](#) (Coming soon)**
 
