@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About me
 
-- 🌱 I’m currently learning **React Native with Firebase, Supabase and Docker** ⚛️
+- 🌱 I’m currently learning **Docker** ⚛️
 
 - 👯 Looking to learn **iOS Development** in the future
 
