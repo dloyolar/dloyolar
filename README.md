@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker** 🐳
 
-- 👯 Looking to learn **iOS Development** in the future
+- 👯 Looking to learn **iOS Development and AWS** in the future
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](#) (Coming soon)**
 
