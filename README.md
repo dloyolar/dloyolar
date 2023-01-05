@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dieegolr@gmail.com**
 
-- ⚡ Fun facts, **I play videogames and billar**
+- ⚡ Fun facts, **I play videogames and billar pool**
 
 ## 🚀 Languages and Tools
 
