@@ -11,8 +11,6 @@
 
 - 👯 Looking to learn **iOS Development and AWS** in the future
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](#) (Coming soon)**
-
 - 📫 How to reach me **dieegolr@gmail.com**
 
 - ⚡ Fun facts, **I play videogames and billar pool**
