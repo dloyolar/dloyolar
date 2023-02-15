@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About me
 
-- 🌱 I’m currently learning **Docker** 🐳 and **Firebase**
+- 🌱 I’m currently learning **Docker** 🐳,  **Firebase** and **Supabase**
 
 - 👯 Looking to learn **iOS Development and AWS** in the future
 
