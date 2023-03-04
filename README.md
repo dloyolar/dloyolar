@@ -7,13 +7,13 @@
 
 ## 🙋‍♂️ About me
 
-- 🌱 I’m currently learning **Docker** 🐳, **Deno** 🦖, and **BaaS**
+- 🌱 I’m currently learning **Docker** 🐳, **Deno** 🦖, and **BaaS**.
 
-- 👯 Looking to learn **iOS Development and AWS** in the future
+- 👯 Looking to learn **iOS Development and AWS** in the future.
 
-- 📫 How to reach me **dieegolr@gmail.com**
+- 📫 How to reach me **dieegolr@gmail.com**.
 
-- ⚡ Fun facts, **I play videogames and billard pool**
+- ⚡ Fun facts, **I play videogames and billard pool**.
 
 ## 🚀 Languages and Tools
 
