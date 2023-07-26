@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About me
 
-- 🌱 I’m currently learning **Docker** 🐳, **Deno** 🦖, and **BaaS**.
+- 🌱 I’m currently learning **Docker** 🐳 and **NestJS**.
 
 - 👯 Looking to learn **iOS Development and AWS** in the future.
 
