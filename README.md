@@ -7,10 +7,6 @@
 
 ## 🙋‍♂️ About me
 
-- 🌱 I’m currently learning **Docker** 🐳 and **NestJS**.
-
-- 👯 Looking to learn **iOS Development and AWS** in the future.
-
 - 📫 How to reach me **dieegolr@gmail.com**.
 
 - ⚡ Fun facts, **I play videogames and billard pool**.
