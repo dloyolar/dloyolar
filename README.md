@@ -2,7 +2,7 @@
 <a href="#"><img width="40%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="300px"/></a>
 </p>
 
-<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Diego</h1>
+<h1 align="center">Hi there, I'm Diego</h1>
 <h3 align="center">I'm a Software Engineer from Chile</h3>
 
 ## 🙋‍♂️ About me
