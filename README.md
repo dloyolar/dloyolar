@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dieegolr@gmail.com**
 
-- ⚡ Fun facts, **I play videogames and billard pool**
+- ⚡ Fun facts: **I play videogames and billard pool**
 
 ## 🚀 Languages and Tools
 
